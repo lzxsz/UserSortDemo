@@ -3,9 +3,9 @@ This is a Microsoft Visual Studio 2017 C++ Project.
 
 Function：
 
-1.Sort user list by datetime.
+1.Sort user list by time.
 
-2.Sort user list by user name.
+2.Sort user list by name.
   
 # Result:  
 Before sorting: 
