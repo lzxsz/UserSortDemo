@@ -1,5 +1,12 @@
 # UserSortDemo
-This is a Microsoft Visual Studio 2017 C++ Project.  
+This is a Microsoft Visual Studio 2017 C++ Project.
+
+Function：
+
+1.Sort user list by datetime.
+
+2.Sort user list by user name.
+  
 # Result:  
 Before sorting: 
 
